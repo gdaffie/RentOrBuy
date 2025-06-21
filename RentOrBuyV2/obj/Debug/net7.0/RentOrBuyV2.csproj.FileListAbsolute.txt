@@ -1,0 +1,29 @@
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.exe
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.deps.json
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.runtimeconfig.json
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.pdb
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.csproj.AssemblyReference.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.AssemblyInfoInputs.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.AssemblyInfo.cs
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.csproj.CoreCompileInputs.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\refint\RentOrBuyV2.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.pdb
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.genruntimeconfig.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\ref\RentOrBuyV2.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.exe
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.deps.json
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.runtimeconfig.json
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\bin\Debug\net7.0\RentOrBuyV2.pdb
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.AssemblyInfoInputs.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.AssemblyInfo.cs
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.csproj.CoreCompileInputs.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\refint\RentOrBuyV2.dll
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.pdb
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\RentOrBuyV2.genruntimeconfig.cache
+C:\Users\unico\OneDrive\Documents\Software Development (2nd Year)\Semester 1\PRG521\Assignments\FA1\RentOrBuyV2\RentOrBuyV2\obj\Debug\net7.0\ref\RentOrBuyV2.dll

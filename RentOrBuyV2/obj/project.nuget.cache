@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iw5vi+g9mf8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\unico\\OneDrive\\Documents\\Software Development (2nd Year)\\Semester 1\\PRG521\\Assignments\\FA1\\RentOrBuyV2\\RentOrBuyV2\\RentOrBuyV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unico\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\unico\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\unico\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\unico\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
